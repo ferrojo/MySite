@@ -23,6 +23,7 @@
   }
 body{
   width: 100%;
+  background-color: aliceblue !important;
 }
 header ul li a{
   color: #FFF;
